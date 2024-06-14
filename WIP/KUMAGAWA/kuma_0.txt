@@ -1,0 +1,9 @@
+[System]
+ProjectName=kuma_0
+[DataFile]
+FileNum= 4
+File00=kuma.HA6
+File01=kuma_0.HA6
+[BmpcutFile]
+FileNum= 1
+File00=kuma.CG
