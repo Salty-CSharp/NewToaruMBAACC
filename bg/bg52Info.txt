@@ -1,0 +1,7 @@
+[Data]
+LightNum = 2 // 光源の数 最大10
+Light00Pos = 900
+Light00Power =  2000 // 位置、有効範囲
+Light01Pos = 300
+Light01Power =  700 // 位置、有効範囲
+

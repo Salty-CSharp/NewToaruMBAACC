@@ -1,0 +1,10 @@
+[Data]
+DropObj = 2
+
+DropObj_Type = 0 // í—Ş
+DropObjFile = sakura00
+DropObj_PatNum = 4 // í—Ş
+DropObj_FrameNum = 9 // ƒAƒjƒ”
+DropObj_Wait = 4 // 
+DropObj_W = 16 // 
+DropObj_H = 16 // 

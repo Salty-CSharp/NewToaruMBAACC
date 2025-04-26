@@ -1,0 +1,24 @@
+[Data]
+DropObj = 2
+
+DropObj_Type = 1 // 種類
+DropObj_Max = 60 // 降る量（0-100)
+DropObj_H = 250 // 雨の長さ
+DropObj_Alpha = 50 // 雨の透過度(0-255)
+DropObj_Wait = 50 // 落下速度
+
+// 桜
+// DropObj_Type = 0 // 種類
+// DropObjFile = sakura00
+// ropObj_PatNum = 4 // 種類
+// DropObj_FrameNum = 9 // アニメ数
+// DropObj_Wait = 4 // 
+// DropObj_W = 16 // 
+// DropObj_H = 16 // 
+// 
+// 雨
+// DropObj_Type = 1 // 種類
+// DropObj_Max = 100 // 降る量（0-100)
+// DropObj_H = 150 // 雨の長さ
+// DropObj_Wait = 50 // 落下速度
+// DropObj_Alpha = 100 // 雨の透過度
